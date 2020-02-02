@@ -7,3 +7,5 @@
 [セキュリティ関連NIST文書：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/publications/nist/)
 
 [情報セキュリティマネジメントとPDCAサイクル：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/manager/protect/pdca/risk.html)
+
+[トロイの木馬とは？その種類から検出・駆除・対策方法を解説](https://cybersecurity-jp.com/security-measures/17899)
