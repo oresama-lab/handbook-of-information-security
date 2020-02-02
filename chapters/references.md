@@ -9,3 +9,15 @@
 [情報セキュリティマネジメントとPDCAサイクル：IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/manager/protect/pdca/risk.html)
 
 [トロイの木馬とは？その種類から検出・駆除・対策方法を解説](https://cybersecurity-jp.com/security-measures/17899)
+
+[サイバー攻撃とは？ その種類や事例を解説 \| フォーカスシステムズ Webマガジン](https://magazine.focus-s.com/1519/#i-7)
+
+[ハッカーを5種類に分類してそれぞれ簡単に説明 \- 忙しい人のためのサイバーセキュリティニュース](https://nanashi0x.hatenablog.com/entry/2018/07/15/190000)
+
+[標的型攻撃対策 － マクニカネットワークス](https://www.macnica.net/solution/security_apt.html/)
+
+[1\.1\. 標的型攻撃とは \| セキュリティ対策のラック](https://www.lac.co.jp/library/apt/3.html)
+
+[高度標的型攻撃（APT攻撃）対策とは \| BLOG \| サイバーリーズン \| EDR（次世代エンドポイントセキュリティ）](https://www.cybereason.co.jp/blog/cyberattack/2173/)
+
+[高度標的型攻撃（APT攻撃）対策とは \| BLOG \| サイバーリーズン \| EDR（次世代エンドポイントセキュリティ）](https://www.cybereason.co.jp/blog/cyberattack/2173/)
